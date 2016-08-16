@@ -1,0 +1,37 @@
+{
+  "name": "cli-fullscreen",
+  "version": "0.0.0",
+  "description": "fullscreen for cli",
+  "license": "MIT",
+  "repository": "akameco/cli-fullscreen",
+  "author": {
+    "name": "akameco",
+    "email": "akameco.t@gmail.com",
+    "url": "akameco.github.io"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "ansi",
+    "escapes",
+    "cli",
+    "fullscreen"
+  ],
+  "dependencies": {
+    "ansi-escapes": "^1.4.0"
+  },
+  "devDependencies": {
+    "ava": "^0.15.2",
+    "xo": "^0.16.0"
+  },
+  "xo": {
+    "esnext": true
+  }
+}
