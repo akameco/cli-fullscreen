@@ -24,13 +24,13 @@ cliFullscreen.leave();
 ### cliFullscreen.enter
 
 Enter Fullscreen.
-cusur hide.
-cusur top left.
+Hide cusur.
+Ignore stdin.
 
 ### cliFullscreen.leave
 
-restore screen.
-show cusur.
+Restore screen.
+Show cusur.
 
 ## License
 
