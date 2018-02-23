@@ -25,11 +25,11 @@
     "fullscreen"
   ],
   "dependencies": {
-    "ansi-escapes": "^1.4.0"
+    "ansi-escapes": "^3.0.0"
   },
   "devDependencies": {
-    "ava": "^0.15.2",
-    "xo": "^0.16.0"
+    "ava": "^0.25.0",
+    "xo": "^0.20.3"
   },
   "xo": {
     "esnext": true
