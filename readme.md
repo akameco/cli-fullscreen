@@ -1,5 +1,7 @@
 # cli-fullscreen [![Build Status](https://travis-ci.org/akameco/cli-fullscreen.svg?branch=master)](https://travis-ci.org/akameco/cli-fullscreen)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/cli-fullscreen.svg)](https://greenkeeper.io/)
+
 > fullscreen for cli
 
 
